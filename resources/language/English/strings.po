@@ -1,0 +1,126 @@
+# XBMC Media Center language file
+# Addon Name: ExtendedInfo Script
+# Addon id: script.extendedinfo
+# Addon version: 1.0.0
+# Addon Provider: phil65
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2014-10-26 17:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "Addon Summary"
+msgid "Extended Info Script"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "This script offers various possibilities to display online content inside skins. Used services are themoviedb.org, theaudiodb.org, rottentomatoes.com, Trakt.TV and a lot more. Can also be used for importing / exporting skin settings, adding additional fanart stuff to library and cooking eggs. Needs skin support for most functions."
+msgstr ""
+
+msgctxt "#32010"
+msgid "Filmography"
+msgstr ""
+
+msgctxt "#32011"
+msgid "Known Movies"
+msgstr ""
+
+msgctxt "#32012"
+msgid "Birthday"
+msgstr ""
+
+msgctxt "#32013"
+msgid "Day of Death"
+msgstr ""
+
+msgctxt "#32014"
+msgid "Place of Birth"
+msgstr ""
+
+msgctxt "#32015"
+msgid "Adult Actor"
+msgstr ""
+
+msgctxt "#32016"
+msgid "Also Known As"
+msgstr ""
+
+msgctxt "#32017"
+msgid "Homepage"
+msgstr ""
+
+msgctxt "#32018"
+msgid "Role"
+msgstr ""
+
+msgctxt "#32019"
+msgid "Job"
+msgstr ""
+
+msgctxt "#32020"
+msgid "Age"
+msgstr ""
+
+msgctxt "#32021"
+msgid "In Database"
+msgstr ""
+
+msgctxt "#32022"
+msgid "Release Date"
+msgstr ""
+
+msgctxt "#32030"
+msgid "Movie Appearances"
+msgstr ""
+
+msgctxt "#32031"
+msgid "TV Show Appearances"
+msgstr ""
+
+msgctxt "#32033"
+msgid "Enter Person Name"
+msgstr ""
+
+msgctxt "#32034"
+msgid "Person results for "%s"
+msgstr ""
+
+msgctxt "#32050"
+msgid "Online information"
+msgstr ""
+
+msgctxt "#32051"
+msgid "Trailer"
+msgstr ""
+
+msgctxt "#32052"
+msgid "No trailers found"
+msgstr ""
+
+msgctxt "#32099"
+msgid "Include Pornstars"
+msgstr ""
+
+msgctxt "#32100"
+msgid "Get extra fanart"
+msgstr ""
+
+msgctxt "#32101"
+msgid "Get extra thumbs"
+msgstr ""
+
+msgctxt "#32102"
+msgid "Get tune"
+msgstr ""
+
+msgctxt "#32103"
+msgid "Change info labels"
+msgstr ""
